@@ -29,6 +29,6 @@ The application includes a **dark theme (Telegram-like)** interface for a modern
 
 Here is a sample screenshot of the chat application:
 
-![Chat Application Screenshot](output.png)
+![Chat Application Screenshot](Output.png)
 
 
