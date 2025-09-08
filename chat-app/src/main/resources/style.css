@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: #1E1E2E;
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
+    -fx-text-fill: white;
+}
+
+.list-view {
+    -fx-background-color: #1E1E2E;
+    -fx-control-inner-background: #1E1E2E;
+    -fx-border-color: transparent;
+    -fx-text-fill: white;
+}
+
+.list-cell {
+    -fx-background-color: #1E1E2E;
+    -fx-text-fill: white;
+    -fx-padding: 6px;
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    -fx-background-color: #2A2A3D;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: #8888AA;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+    -fx-padding: 5px;
+}
+
+.button {
+    -fx-background-color: linear-gradient(to bottom right, #6A5ACD, #483D8B);
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 15;
+    -fx-padding: 8 15;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom right, #7B68EE, #5D478B);
+}
